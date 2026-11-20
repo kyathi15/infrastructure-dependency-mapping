@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+networkx
+pydantic
+sqlalchemy
+pytest
+httpx
+streamlit
+requests
+streamlit-agraph
